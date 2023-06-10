@@ -1,2 +1,2 @@
 # java_practice
-JDBC ㅇㅕㄴㅅㅡㅂ
+JDBC
