@@ -1,2 +1,2 @@
 # java_practice
-JDBC
+JDBC 테스트
